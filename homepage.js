@@ -1,1 +1,0 @@
-play now buttom
